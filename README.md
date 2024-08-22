@@ -37,7 +37,8 @@ Here's a sneak peek at what you’re getting into:
 
 ## 📺 Video Tutorial & Showcase
 
-Need a little more guidance? 🧑‍🏫 Check out our [YouTube tutorial](https://youtu.be/jv_-mSGg9SE) to get started or watch the showcase video to see it in action.
+Need a little more guidance? 🧑‍🏫 Check out our Youtube Tutorial to get started or watch the showcase video to see it in action.
+[![Watch the video](https://img.youtube.com/vi/jv_-mSGg9SE/maxresdefault.jpg)](https://youtu.be/jv_-mSGg9SE)
 
 ## 🌟 Show Some Love
 
