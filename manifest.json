@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Linkfinder by Rdzsp",
+    "description": "Get all links/endpoints from specific website",
+    "version": "1.0",
+    "action": {
+        "default_popup": "linkfinder.html",
+        "default_icon": {
+            "16": "images/icon16.png",
+            "19": "images/icon19.png",
+            "32": "images/icon32.png",
+            "48": "images/icon48.png",
+            "128": "images/icon128.png"
+        }
+    },
+    "content_scripts": [{
+        "js": ["scripts/linkfinder.js"],
+        "matches": ["<all_urls>"],
+        "run_at": "document_end"
+    }]
+}
